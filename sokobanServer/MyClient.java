@@ -5,8 +5,7 @@ import java.io.ObjectInputStream;
 import java.io.OutputStream;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.io.BufferedInputStream
-;
+import java.io.BufferedInputStream;
 
 public class MyClient extends Thread {
     private Socket socket;
